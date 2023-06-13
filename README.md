@@ -22,3 +22,5 @@ $ ./client
 ```
 
 # Screenshot
+<img src="capture/server.jpg">
+<img src="capture/client.jpg">
