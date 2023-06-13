@@ -5,7 +5,7 @@ CPP client server chat max 5 client command line interface
 ## Server
 https://github.com/fajarjulyana/CPP-LAN-chat-cli/blob/a58954eee191a898df5f3a3c8eed41ca8bd3652b/src/server.cpp#L1-L78
 ## Client
-https://github.com/fajarjulyana/CPP-LAN-chat-cli/blob/cce5c18123cb8a2a5268259f598c999c409df5a5/src/client.cpp#L1-60
+https://github.com/fajarjulyana/CPP-LAN-chat-cli/blob/cce5c18123cb8a2a5268259f598c999c409df5a5/src/client.cpp#L1-L60
 ## Perintah Compile dan runningnya
 Compile
 ```
